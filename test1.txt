@@ -15,4 +15,48 @@ https://drive.google.com/drive/folders/1SI0l_PXJJjUymhGEvJNXR_2tDAv20P-2?usp=sha
 Nwely added text on the file.
 
 Becasue i want to see  the diffenrece between commited file as well as newly updating file.
+
+
+akshu20791@gmail.com 
+Akshat@apicletech.com
+company name: coupnest analytics
+
+https://github.com/akshu20791/DevOpsClassCodes
 this is testing!!!
+
+sudo amazon-linux-extras install java-openjdk11
+
+https://www.youtube.com/watch?v=rpiE8ZIHjLc&t=1024s
+1) sudo yum update –y
+
+2) sudo wget -O /etc/yum.repos.d/jenkins.repo \
+https://pkg.jenkins.io/redhat-stable/jenkins.repo
+
+Import a key file from Jenkins-CI to enable installation from the package:
+
+3) sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
+
+4) sudo yum upgrade
+
+Install java :
+
+3
+
+5) sudo amazon-linux-extras install java-openjdk11 -y
+
+6) Install jenkins:
+
+sudo yum install jenkins -y
+
+Enable the Jenkins service to start at boot:
+
+7) sudo systemctl enable jenkins
+
+Start Jenkins as a service:
+
+8) sudo systemctl start jenkins
+
+You can check the status of the Jenkins service using the command:
+
+9) sudo systemctl status jenkins
+10) yum install git -y
